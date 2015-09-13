@@ -1,0 +1,25 @@
+{
+  "name": "nodejsfoo",
+  "version": "1.0.0",
+  "description": "NodeJS Workshop Single Day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fundoo-Solutions/nodejsfoo.git"
+  },
+  "author": "Shyam Seshadri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fundoo-Solutions/nodejsfoo/issues"
+  },
+  "homepage": "https://github.com/Fundoo-Solutions/nodejsfoo#readme",
+  "dependencies": {
+    "async": "^1.4.2",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.6"
+  }
+}

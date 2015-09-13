@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Twitter Inc",
+    "price": 85,
+    "previous": 76,
+    "id": "TWTR"
+  },
+  {
+    "name": "Google Inc",
+    "price": 60,
+    "previous": 64,
+    "id": "GOOG"
+  },
+  {
+    "name": "Facebook Inc",
+    "price": 89,
+    "previous": 95,
+    "id": "FB"
+  }
+]
